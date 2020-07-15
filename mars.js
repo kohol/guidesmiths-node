@@ -1,7 +1,21 @@
+
+
+
+
+const Mars = {
+
+    init: () => {
+
+    },
+
+    add: () => {
+
+    },
+}
+
+
 function mars(a, b) {
     return a + b;
 }
 
-// export default mars;
-
-module.exports = mars
+export default mars;
