@@ -1,3 +1,5 @@
+// Need to change add "type: module" to package.json
+
 import { Mars, RobotPosition } from './mars.js';
 
 let mars = new Mars(10, 10)

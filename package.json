@@ -11,10 +11,11 @@
     "test": "jest",
     "tsc": "tsc"
   },
+  "main": "server.js",
   "dependencies": {
+    "express": "^4.17.1",
     "typescript": "^3.9.6"
   },
-  "type": "module",
   "jest": {
     "verbose": true,
     "transform": {
