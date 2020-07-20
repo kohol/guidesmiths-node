@@ -7,5 +7,5 @@
 
 
 <code>
-curl -d '{"input":"10 10\n 5 3\n1 1 E\nRFRFRFRF\n3 2 N\nFRRFLLFFRRFLL\n0 3 W\nLLFFFLFLFL"}' -H "Content-Type: application/json" -X POST http://localhost:49160/
+curl -d '{"input":"10 10\n1 1 E\nRFRFRFRF\n3 2 N\nFRRFLLFFRRFLL\n0 3 W\nLLFFFLFLFL"}' -H "Content-Type: application/json" -X POST http://localhost:49160/
 </code>
